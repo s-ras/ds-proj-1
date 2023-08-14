@@ -1,0 +1,37 @@
+- contact: reza karimi
+	- property: social networks
+		- property: instagram
+			- value: instagram.com/reza.karimi
+		- property: linkedin
+			- value: www.linkedin.com/reza-karimi
+	- property: email
+		- property: unofficial
+			- value: reza@yahoo.com
+			- value: reza@gmail.com
+		- property: official
+			- value: karimi@university.ir
+	- property: address
+		- value: tehran, sattarkhan, no. 290589
+	- property: phone
+		- property: home
+			- value: 02134577
+		- property: mobile
+			- value: 093345678901
+			- value: 0922556789
+	- property: occupation
+		- value: university student
+- contact: kurosh mahani
+- contact: sina shirazi
+	- property: phone
+		- property: home
+			- value: 02198765432
+			- value: 02112345678
+		- property: mobile
+			- value: 09987654321
+			- value: 091234567890
+	- property: email adresses
+		- value: secondtestemail@yahoo.com
+		- value: testemail@gmail.com
+- contact: kamran kavoshi
+	- property: email
+		- value: hi@jamran.com

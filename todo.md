@@ -1,0 +1,11 @@
+# To-Do
+- Add to list functions
+    - add data
+    - add property
+    - add contact
+- remove from list functions
+    - remove data
+    - remove property
+- subtree functions
+    - print path
+- Menu
